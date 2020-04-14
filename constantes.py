@@ -8,9 +8,10 @@ cote_fenetre = nombre_sprite_cote * taille_sprite
 #Personnalisation de la fenêtre
 titre_fenetre = "DK Labyrinthe"
 image_icone = "pictures/MacGyver.png"
+image_depart = "pictures/MacGyver.png"
 
 #Listes des images du jeu
-image_mur = "pictures/floor.png"
+image_mur = "pictures/floor.jpg"
 image_arrivee = "pictures/Gardien.png"
 image_potion = "pictures/potion.png"
 image_aiguille = "pictures/aiguille.png"
